@@ -1,7 +1,5 @@
 {
-    "version": "2.0.0",
-    "tasks": [
-        {
+        
             "label": "run gradle",
             "type": "shell",
             "command": "${workspaceFolder}/gradlew",
@@ -27,6 +25,6 @@
   "start": "next start",
   "seed": "node -r dotenv/config ./scripts/seed.js"
 },
-        }
-    ]
+        
+    
 }
