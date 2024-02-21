@@ -1,5 +1,6 @@
 # hyp
 
+MS-CEINTL.vscode-language-pack-zh-hans
 run = "py .pythonlibs/bin/flask"
 modules = ["nodejs-20:v8-20230920-bd784b9", "python-3.10:v25-20230920-d4ad2e4"]
 
